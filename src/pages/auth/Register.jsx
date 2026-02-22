@@ -93,8 +93,7 @@ export default function Register() {
             Join MedCare's<br />Digital Health Platform
           </h1>
           <p className="auth-brand-desc">
-            Create your secure account and get instant access to your healthcare
-            portal — tailored to your role within the MedCare ecosystem.
+            
           </p>
 
           <div style={{ marginTop: 40, display: 'flex', flexDirection: 'column', gap: 20 }}>
