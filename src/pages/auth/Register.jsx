@@ -14,7 +14,7 @@ const EyeIcon = ({ open }) => open ? (
 );
 
 const roles = [
-  { value: 'patient', label: 'Patient',       desc: 'Access your medical records, appointments & results',    icon: '🧑‍⚕️' },
+  { value: 'patient', label: 'Patient',       desc: 'Access your medical records, appointments & results',    icon: '🧑' },
   { value: 'staff',   label: 'Staff / Doctor',desc: 'Manage patients, schedules & clinical operations',         icon: '👨‍⚕️' },
   { value: 'admin',   label: 'Administrator', desc: 'Full access to hospital management & reporting',           icon: '🏥' },
 ];
