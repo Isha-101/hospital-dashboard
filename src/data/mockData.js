@@ -233,7 +233,7 @@ export const staffSchedule = {
 export const assignedPatients = [
   {
     id: 'PAT-20890',
-    name: 'Ava Thompson',
+    name: 'Ankita Sharma',
     age: 34, sex: 'F',
     room: '204-A',
     ward: 'General',
@@ -246,7 +246,7 @@ export const assignedPatients = [
   },
   {
     id: 'PAT-18234',
-    name: 'Robert Kwan',
+    name: 'Mohit Kumar',
     age: 67, sex: 'M',
     room: 'ICU-03',
     ward: 'ICU',
@@ -259,7 +259,7 @@ export const assignedPatients = [
   },
   {
     id: 'PAT-30011',
-    name: 'Maria Santos',
+    name: 'Diya Bhatt',
     age: 52, sex: 'F',
     room: '208-B',
     ward: 'General',
@@ -272,7 +272,7 @@ export const assignedPatients = [
   },
   {
     id: 'PAT-41122',
-    name: 'David Petrov',
+    name: 'Himanshu Kumar',
     age: 45, sex: 'M',
     room: '201-C',
     ward: 'General',
@@ -285,7 +285,7 @@ export const assignedPatients = [
   },
   {
     id: 'PAT-55789',
-    name: 'Ellen Marsh',
+    name: 'Cherry Mathew',
     age: 78, sex: 'F',
     room: 'ICU-05',
     ward: 'ICU',
